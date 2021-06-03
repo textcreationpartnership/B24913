@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Jacobites lamentation and confession: or, The plotting cut-throat. To the tune of 41. Or, Hey boys up go we.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24913</idno><idno type="EEBO-CITATION">99888272</idno>
+  <idno type="VID">200846</idno>
+  <idno type="EEBO-PROQUEST">2240885176</idno>
+  
+            <idno type="STC">Wing J106</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.121.g.9[100]</idno>
+            <idno type="STC">ESTC R229247</idno>
+            <idno type="PROQUEST">ocm99888272</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888272e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24913)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200846)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A8:1[102])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Jacobites lamentation and confession: or, The plotting cut-throat. To the tune of 41. Or, Hey boys up go we.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Lond[o]n :</pubPlace>
+                  <date>Printed in the year, 1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>caption title.</note>
+                  <note>Two columns of text, initial.</note>
+                  <note>First line: "Old sandcroft he began to dance."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Jacobites --  Poetry --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:200846:1"/>
+            <head>The JACOBITES <hi>Lamentation and Confession:</hi> Or, <hi>The Plotting CƲT-THROAT.</hi>
+            </head>
+            <opener>To the Tune of 41. Or, <hi>Hey Boys up go we.</hi>
+            </opener>
+            <lg n="1">
+               <head>I.</head>
+               <l>OLD <hi>Sandcroft</hi> he began the Dance,</l>
+               <l>and taught us to Rebell,</l>
+               <l>In Tricking <hi>James</hi> and <hi>William</hi> too,</l>
+               <l>as you remember well:</l>
+               <l>He taught <hi>Sedition</hi> in the <hi>Church,</hi>
+               </l>
+               <l>
+                  <hi>Rebellion</hi> in the <hi>State;</hi>
+               </l>
+               <l>Thus we like Fools, misled by Knaves,</l>
+               <l>are brought to <hi>Tyburn</hi> Fate.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>His <hi>Lambs,</hi> the black <hi>Non-swearing</hi> Crew,</l>
+               <l>kept up this Rebell Cause,</l>
+               <l>Perswaded us against the King,</l>
+               <l>and damn'd the Nations Laws:</l>
+               <l>They cry'd up Conscience to the Crowd,</l>
+               <l>and say, their Trade's Divine;</l>
+               <l>But they're the Grand Rebelling Knaves,</l>
+               <l>and all this done for Coin.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>'Twas these <hi>Black-Jacks</hi> Debauch'd us all,</l>
+               <l>under pretence to Pray,</l>
+               <l>And keep the good Old Worship up,</l>
+               <l>the clean contrary way:</l>
+               <l>They pray'd Success, and did assist</l>
+               <l>the Murdring Bloody Crew,</l>
+               <l>So made their Church a <hi>Den of Thieves;</hi>
+               </l>
+               <l>come <hi>Gallows,</hi> claim thy due.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>These <hi>Black-Coats</hi> to compleat their hope</l>
+               <l>of Slavery and Blood,</l>
+               <l>In <hi>Fenwick</hi>'s Reg'ment form'd a Troop</l>
+               <l>of none but this black Brood,</l>
+               <l>The bane of Mankind, wicked <hi>Priests,</hi>
+               </l>
+               <l>like <hi>Judas,</hi> let 'em fall;</l>
+               <l>For like th' Infection of the Plague,</l>
+               <l>they make a Prey of all.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>The <hi>King</hi> was first to be Destroy'd</l>
+               <l>by Poniard, Sword, or Gun,</l>
+               <l>And we to give the <hi>French</hi> the Sign,</l>
+               <l>when once that Work was done:</l>
+               <l>The <hi>French</hi> were strait to Land in <hi>Kent;</hi>
+               </l>
+               <l>in <hi>London</hi> then were we</l>
+               <l>To <hi>Plunder, Burn,</hi> and Cut your <hi>Throats,</hi>
+               </l>
+               <l>for which, <hi>Boys up go we.</hi>
+               </l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Commissions were sent o'er from <hi>France,</hi>
+               </l>
+               <l>poor Dogs with ragged Coats,</l>
+               <l>True Champions of St. <hi>Germains</hi> breed,</l>
+               <l>or <hi>Cutting English Throats.</hi>
+               </l>
+               <l>King <hi>James</hi> and <hi>Bouffler</hi> were to Land</l>
+               <l>and set the <hi>English</hi> free:</l>
+               <l>Oh! how the Streets had run with Blood,</l>
+               <l>a Glorious sight to see.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>Great Sums of Mony we had rais'd,</l>
+               <l>to manage the Design:</l>
+               <l>From <hi>France</hi> we had their Counsel free,</l>
+               <l>poor Rogues, but little Coin.</l>
+               <l>We thought to pull down <hi>Church and State,</hi>
+               </l>
+               <l>good Men of each Degree;</l>
+               <l>But now instead of pulling down,</l>
+               <l>'tis <hi>Hey Boys, up go we.</hi>
+               </l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>What <hi>Rogues</hi> we <hi>Jacobites</hi> have been</l>
+               <l>most Impudent and Bold;</l>
+               <l>We durst abuse the <hi>King</hi> and <hi>State,</hi>
+               </l>
+               <l>and were by none Controll'd;</l>
+               <l>But now we're Civil, Fair and Kind</l>
+               <l>good <hi>Natur'd Rogues</hi> you see,</l>
+               <l>The reason is, we know our Crimes, cry,</l>
+               <l>
+                  <hi>Hey Boys, up go we.</hi>
+               </l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>This Trade we've follow'd many Years,</l>
+               <l>which cannot be forgot,</l>
+               <l>And thought the State had given leave</l>
+               <l>that we might <hi>Rogue</hi> and <hi>Plot.</hi>
+               </l>
+               <l>They Hang'd up none, which made us bold</l>
+               <l>and slight the <hi>Western Tree,</hi>
+               </l>
+               <l>But now we're like to pay for all, for</l>
+               <l>
+                  <hi>Hey Boys, up go we.</hi>
+               </l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>Remember now the <hi>Northern Plot,</hi>
+               </l>
+               <l>and how we shamm'd the <hi>King;</hi>
+               </l>
+               <l>Thanks to a Man or two Above,</l>
+               <l>that helpt us in the thing.</l>
+               <l>That was the self same Plot as now,</l>
+               <l>for then we did agree</l>
+               <l>To Ruin <hi>King</hi> and <hi>Government,</hi>
+               </l>
+               <l>but now <hi>Boys, up go we.</hi>
+               </l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>'Twas pity two such <hi>Glorious Plots,</hi>
+               </l>
+               <l>on which we built our hope,</l>
+               <l>Should fail of those great things we wish'd,</l>
+               <l>and end with fatal Rope.</l>
+               <l>We <hi>Plotted Drunk,</hi> and <hi>Damn'd the King,</hi>
+               </l>
+               <l>in spight of <hi>Tripple-Tree;</hi>
+               </l>
+               <l>But now our Cause is quite Besh—</l>
+               <l>and <hi>Hey Boys, up go we.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
